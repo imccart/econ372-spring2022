@@ -1,0 +1,31 @@
+---
+title: "Weekly Guide 9"
+linktitle: "Week 9"
+menu:
+  content:
+    parent: Weekly Guides
+    weight: 9
+type: docs
+bibliography: "../../static/bib/BibTeX_Library.bib"
+csl: "../../static/bib/chicago-syllabus-no-bib.csl"
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+This week concludes our discussion of physician agency. We'll talk about recent policy events including pay-for-performance and capitated payment models. We'll also discuss an academic paper in this area to help us practice reading and discussing this type of material.
+
+### Objectives for this week
+
+- Explain at least one recent hospital pay for performance program
+- Identify and explain two pros and two cons from health care pay for performance models
+- Define a capitated payment and describe at least one type of capitated payment currently in the U.S.
+- Discuss the merits and drawbacks of a capitated payment model
+
+### Activities
+- Review homework assignments and answer any exam questions
+- Discuss [@clemens2014]

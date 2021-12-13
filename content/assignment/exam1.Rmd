@@ -1,0 +1,49 @@
+---
+title: "Mid-term Exam"
+linktitle: "Mid-term exam"
+due_date: "2021-03-30"
+due_time: "11:59 PM"
+output:
+  blogdown::html_page:
+    toc: false
+menu:
+  assignment:
+    parent: Exam
+    weight: 1
+type: docs
+---
+
+We only have one exam this semester. It will cover all content from Modules 1 and 2. This includes our coverage of insurance purchases and insurance markets (risk aversion, the risk premium and willingness to pay, and adverse selection), as well as our coverage of physician agency (agency under fee-for-service payments, capitated payments, and fixed prices). 
+
+## Format
+- I will upload the exam to *Canvas* by 8:00am on Tuesday, March 30th. This gives you the full day to complete the exam.
+
+- The exam will consist of at least 6 general problems, each with between 3 and 5 individual questions. I anticipate 20 to 25 questions in total. Just as we've done in our homework assignments, some of these will require you to solve an optimization problem, some will require a brief explanation, and some parts will require a graph. See the [content](#content-1) section below for more information.
+
+- As with the homework assignments, you must turn-in your exam as a PDF in *Canvas*. You need not re-type the questions themselves, but your answers must be clearly demarcated. I suggest using headings for each main problem and subheadings for each question.
+
+- The exam is designed to take no more than 2 hours. It definitely can be completed within our usual 1hr 15min class time, but I suspect most students will opt to spend a little extra time to carefully review any new readings (see below).
+
+- Note that we **do not** have class on exam day. Between our usually scheduled class time and the remainder of the day, I expect everyone to be able to complete the exam without issue by the end of the day (and without missing any other classes on that day). 
+
+## Content
+- The overall content of the exam will match very closely the content that we've covered in class and in our homework assignments. The homework and the in-class worksheets should be excellent practice for the exam. I will also post an exam review sheet to the [resources](/resource/) page on or before Monday, March 15th. 
+
+- I anticipate 3-4 problems that follow the structure of the homework assignments and in-class worksheets. These questions will ask you to set up some health economics problem, find the solution, and explain your results in the proper context. You can expect these questions to be similar but certainly not identical to the homework and in-class worksheets.
+
+- Building off of our in-class discussions of selected academic papers, the exam will also include 1 or 2 questions related to a new paper that you must read closely and summarize as part of the exam. I will ask you to use this material, alongside the relevant health economics concepts we've covered in class, to predict the effects of hypothetical new policies. Any additional reading for the exam will be made available on *Canvas*.
+
+- Many questions will have some element in which you are asked to examine a real-world health policy in the context of the problem. We will practice this in class and in your homework assignments as well, so it should be nothing new by the time the exam comes.
+
+- Due to time constraints, I **will not** ask you to collect or work with any data on the exam.
+
+## Tech Support!
+Since we don't have official class on exam day, I will be available from 8:00am to 9:30am in our Zoom classroom if anyone has any clarifying questions. 
+
+## My Advice
+I strongly, strongly recommend that you wake up like a normal class day and get started with the exam just as if we're in class. This will... 
+
+- allow time for you to ask clarifying questions on Zoom
+- maintain your usual schedule as much as possible
+- allow lots of time throughout the rest of the day (until midnight) to finish your exam **if needed**
+
