@@ -24,7 +24,7 @@ title = "Economics of Health Care Markets"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Spring 2021<br>Department of Economics<br>Emory University'
+  label = 'Spring 2022<br>Department of Economics<br>Emory University'
 +++
 
 **Use the tools of microeconomic theory and basic data analysis to understand insurance markets, health care decision making, and hospital pricing**

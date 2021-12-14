@@ -3,66 +3,72 @@ lessons:
     header: True
 
   - title: '<span class="content-title">Motivation</span>'
-    session: "Class 1-2"
-    date: "January 26-28"
+    session: "Class 1"
+    date: "Jan 12"
     content: "00-content"
     guide: "guide1"
     bg: 1
-    
-  - title: 'Check-in 1'
-    date: "January 29"
-    assignment: "weekly-check-in"
-    bg: 1
-    bottomborder: True    
 
   - title: 'Module 1: Health insurance'
     header: True
 
   - title: '<span class="content-title">Understanding risk</span>'
-    session: "Class 3"
-    date: "February 2"
+    session: "Class 2"
+    date: "Jan 19"
     content: "01-content"
     guide: "guide2"
+    bg: 1
+    bottomborder: True
+
+  - title: 'Check-in 1'
+    date: "Jan 21"
+    assignment: "weekly-check-in"
     bg: 2
     bottomborder: True
 
+
   - title: '<span class="content-title">Demand for health insurance</span>'
-    session: "Class 4-5"
-    date: "February 4-9"
+    session: "Class 3-4"
+    date: "Jan 24, 26"
     content: "01-content"
     guide: "guide3"
     bg: 1
 
   - title: 'Check-in 2'
-    date: "February 5"
+    date: "Jan 28"
     assignment: "weekly-check-in"
-    bg: 1
+    bg: 2
     bottomborder: True
 
   - title: '<span class="content-title">Advserse selection</span>'
-    session: "Class 6-7"
-    date: "February 11-16"
+    session: "Class 4-5"
+    date: "Jan 31, Feb 2"
     content: "01-content"
     guide: "guide4"
-    bg: 2
+    bg: 1
 
   - title: 'Check-in 3'
-    date: "February 12"
+    date: "Feb 4"
     assignment: "weekly-check-in"
     bg: 2
     bottomborder: True
 
   - title: '<span class="content-title">Health insurance and current policy</span>'
-    session: "Class 8-9"
-    date: "February 18-23"
+    session: "Class 6-7"
+    date: "Feb 7, 9"
     content: "01-content"
     guide: "guide5"
     bg: 1
 
   - title: 'Check-in 4'
-    date: "February 19"
+    date: "Feb 11"
     assignment: "weekly-check-in"
-    bg: 1
+    bg: 2
+
+  - title: 'Homework 1'
+    date: "Feb 11"
+    assignment: "homework1"
+    bg: 3
     bottomborder: True
 
 
@@ -71,95 +77,94 @@ lessons:
 
 
   - title: '<span class="content-title">Physician agency</span>'
-    session: "Class 10-11"
-    date: "February 25-March 2"
+    session: "Class 8-9"
+    date: "Feb 14, 16"
     content: "02-content"
     guide: "guide6"
-    bg: 2
-
-  - title: 'Homework 1'
-    date: "February 25"
-    assignment: "homework1"
-    bg: 3
+    bg: 1
 
 
   - title: 'Check-in 5'
-    date: "February 26"
+    date: "Feb 18"
     assignment: "weekly-check-in"
     bg: 2
     bottomborder: True    
 
 
   - title: '<span class="content-title">Fee-for-service payments</span>'
-    session: "Class 12-13"
-    date: "March 4-9"
+    session: "Class 10-11"
+    date: "Feb 21, 23"
     content: "02-content"
     guide: "guide7"
     bg: 1
 
   - title: 'Check-in 6'
-    date: "March 5"
+    date: "Feb 25"
     assignment: "weekly-check-in"
-    bg: 1
+    bg: 2
     bottomborder: True
 
 
   - title: '<span class="content-title">Capitated payments</span>'
-    session: "Class 14-15"
-    date: "March 11-18"
+    session: "Class 12-13"
+    date: "Feb 28, Mar 2"
     content: "02-content"
     guide: "guide8"
-    bg: 2
+    bg: 1
 
   - title: 'Check-in 7'
-    date: "March 12"
+    date: "Mar 4"
     assignment: "weekly-check-in"
     bg: 2
-
-  - title: 'Check-in 8'
-    date: "March 19"
-    assignment: "weekly-check-in"
-    bg: 2
-    bottomborder: True
+    bottomborder: True    
 
 
-  - title: '<span class="content-title">Current issues in health care payments</span>'
-    session: "Class 16-17"
-    date: "March 23-25"
+  - title: '<span class="content-title">Hospital and physician payment policies</span>'
+    session: "Class 14-15"
+    date: "Mar 14, 16"
     content: "02-content"
     guide: "guide9"
     bg: 1
+  
+  - title: 'Check-in 8'
+    date: "Mar 18"
+    assignment: "weekly-check-in"
+    bg: 2
 
   - title: 'Homework 2'
-    date: "March 23"
+    date: "Mar 18"
     assignment: "homework2"
     bg: 3
-
-  - title: 'Check-in 9'
-    date: "March 26"
-    assignment: "weekly-check-in"
-    bg: 1
     bottomborder: True
+  
+
+  - title: 'Exam Week'
+    header: True
+
+  - title: '<span class="content-title">Exam Review</span>'
+    session: "Class 16"
+    date: "Mar 21"
+    bg: 1
 
   - title: '<i class="fas fa-star"></i> **Mid-term Exam**'
-    date: "March 30"
+    session: "Class 17"
+    date: "Mar 23"
     assignment: "exam1"
-    bg: 3
+    bg: 2
     bottomborder: True
-
 
   - title: 'Module 3: Hospital pricing and competition'
     header: True
 
   - title: '<span class="content-title">Pricing in two-price market</span>'
     session: "Class 18-19"
-    date: "April 1-6"
+    date: "Mar 28, 30"
     content: "03-content"
     guide: "guide10"
-    bg: 2
+    bg: 1
 
-  - title: 'Check-in 10'
-    date: "April 2"
+  - title: 'Check-in 9'
+    date: "Apr 1"
     assignment: "weekly-check-in"
     bg: 2
     bottomborder: True
@@ -167,60 +172,66 @@ lessons:
 
   - title: '<span class="content-title">Prices and bargaining</span>'
     session: "Class 20-21"
-    date: "April 8-13"
+    date: "Apr 4, 6"
     content: "03-content"
     guide: "guide11"
     bg: 1
 
-  - title: 'Check-in 11'
-    date: "April 9"
+  - title: 'Check-in 10'
+    date: "Apr 8"
     assignment: "weekly-check-in"
-    bg: 1
+    bg: 2
     bottomborder: True
 
 
   - title: '<span class="content-title">Hospital competition</span>'
-    session: "Class 22-24"
-    date: "April 15-22"
+    session: "Class 22-23"
+    date: "Apr 11, 13"
     content: "03-content"
     guide: "guide12"
-    bg: 2
+    bg: 1
 
-  - title: 'Check-in 12'
-    date: "April 16"
-    assignment: "weekly-check-in"
-    bg: 2
-
-  - title: 'Check-in 13'
-    date: "April 23"
+  - title: 'Check-in 11'
+    date: "Apr 15"
     assignment: "weekly-check-in"
     bg: 2
     bottomborder: True
 
 
   - title: '<span class="content-title">Mergers and prices</span>'
-    session: "Class 25-26"
-    date: "April 27-29"
+    session: "Class 24-25"
+    date: "Apr 18, 20"
     content: "03-content"
     guide: "guide13"
     bg: 1
 
+  - title: 'Check-in 12'
+    date: "Apr 22"
+    assignment: "weekly-check-in"
+    bg: 2
+
   - title: 'Homework 3'
-    date: "April 27"
+    date: "Apr 22"
     assignment: "homework3"
     bg: 3
+    bottomborder: True
 
-  - title: 'Check-in 14'
-    date: "April 30"
-    assignment: "weekly-check-in"
+  - title: 'Last Class!'
+    header: True
+
+  - title: '<span class="content-title">Class Projects</span>'
+    session: "Class 26"
+    date: "Apr 25"
+    assignment: "project"
     bg: 1
     bottomborder: True
+
 
   - title: 'Final Exam Period'
     header: True
 
   - title: '<i class="fas fa-star"></i> **Final Project**'
-    date: "May 12"
+    date: "May 2"
     assignment: "project"
     bg: 3
     bottomborder: True

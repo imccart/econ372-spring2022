@@ -48,7 +48,7 @@ There are more specific learning outcomes for each module described on the relev
 ## Course materials
 
 ### Where to go
-If you're here, then you know where to find our class website. Well done! Hopefully it's clear by the existence of the site that this is where I plan to host most of our information such as course materials, notes/slides, assignments. I'll also use Canvas to distribute any papers or specific readings that aren't available publicly, as well as post information that I don't want public like virtual meeting passwords and grades.
+If you're here, then you know where to find our class website. Well done! Hopefully it's clear by the existence of the site that this is where I plan to host most of our information such as course materials, notes/slides, assignments. I'll also use Canvas to distribute any papers or specific readings that aren't available publicly, as well as post information that I don't want public like virtual meeting passwords (if needed) and grades.
 
 ### Readings
 There are two recommended textbooks for this class. One is an intermediate microeconomics textbook that will cover much of the basic economic theory, and another is a health economics textbook. We will supplement these textbooks with other readings listed below in the detailed schedule, as well as online.
@@ -60,16 +60,13 @@ There are two recommended textbooks for this class. One is an intermediate micro
 Each assignment will generally include both a theoretical and empirical section. Most of the empirical work involves basic summary statistics. This can be done in just about any spreadsheet or statistics package. I'll use `R` for my work, but you are free to use whatever software you're most comfortable with. I encourage you to use `R` or `Python` simply because these are the most common programs used in applied data analysis right now, but you can certainly use Excel or Google Sheets if you'd prefer. This is **not** a statistics or econometrics class, so I do not expect you to have any statistics programming knowledge.
 
 ### Accessing data
-For all assignments and in-class activities, I will house all of the links to the data on our class website. For transparency, I will also point you to other GitHub repositories where available. If you're new to Git or GitHub and want to understand some of that better, take a look at [Grant McDermott's](https://grantmcdermott.com/) notes on [Data Science for Economists](https://github.com/uo-ec607/lectures) as well as [Jenny Bryan's](https://jennybryan.org/) online reference book, [Happy Git and GitHub with R](https://happygitwithr.com/). But again, knowledge of Git or GitHub is not part of this class.
+For all assignments and in-class activities, I will house all of the links to the data on our class website. For transparency, I will also point you to other GitHub repositories where available. If you're new to Git or GitHub and want to understand some of that better, take a look at [Grant McDermott's](https://grantmcdermott.com/) notes on [Data Science for Economists](https://github.com/uo-ec607/lectures) as well as [Jenny Bryan's](https://jennybryan.org/) online reference book, [Happy Git and GitHub with R](https://happygitwithr.com/). But again, knowledge of Git or GitHub is not expected or required for this class.
 
 ### Logistics
 For day-to-day communication, grades, and other private information (such as Zoom meeting links), I'll use *Canvas*. I'll post all other materials to our class website.
 
-### Lectures and notes
-Any pre-recorded videos will be made available [here](/content/) prior to any given class. I may also annotate those slides during each class, for which I'll use *OneNote*. Everyone has access to this as an Emory student, so I will set up a classroom notebook which will serve as a single resource for all class notes. You can also take your own notes as part of the app, which should help with keeping things organized. This will also be integrated directly into Canvas.
-
-### Turning thing in
-All assignments should be submitted as PDF files on Canvas. Since we'll be using some math in all of our answers, I ask that all assignments be completed through [Overleaf](https://www.overleaf.com/). As an Emory student, everyone has access to an institutional Overleaf account, which provides you with all the nice features of the product. You can use this to easily write PDF documents in a language known as "LaTeX". For a brief introductory video and links to more info, please see the video [here](https://www.overleaf.com/learn/latex/Questions/Getting_started_with_LaTeX_and_Overleaf_(formerly_writeLaTeX)).
+### Turning things in
+All assignments should be submitted as PDF files on Canvas. Since we'll be using some math in all of our answers, I suggest that all assignments be completed through [Overleaf](https://www.overleaf.com/). As an Emory student, everyone has access to an institutional Overleaf account, which provides you with all the nice features of the product. You can use this to easily write PDF documents in a language known as "LaTeX". For a brief introductory video and links to more info, please see the video [here](https://www.overleaf.com/learn/latex/Questions/Getting_started_with_LaTeX_and_Overleaf_(formerly_writeLaTeX)).
 
 
 ## Course policies
@@ -78,25 +75,23 @@ All assignments should be submitted as PDF files on Canvas. Since we'll be using
 
 Various policies for this course are described below. Basically, let's all work to be good citizens and take seriously our various roles as a student, teacher, friend, colleague, human, etc.
 
-### Class (virtual) meetings
+### Class meetings
 
-All regular class meetings will take place virtually this semester on *Zoom* during our regularly schedule class times (TuTh, 8:00am to 9:15am). I'll use the same *Zoom* meeting room for all meetings, the details of which are available on our *Canvas* site. As you all know, it can be difficult to get everyone engaged in a virtual environment. To help with this, I expect everyone to keep their cameras and microphones on as much as possible.
+All regular class meetings will take place in **White Hall, Room 102** on Mondays and Wednesdays from 8:30am to 9:45am. 
 
-All class sessions will be recorded for students in the class to refer back to the information, and for enrolled students who are unable to attend live. Lectures and other classroom presentations through video conferencing and other materials posted on Canvas are for the sole purpose of educating the students enrolled in the course. The release of such information (including but not limited to directly sharing, screen capturing, or recording content) is strictly prohibited, unless the instructor states otherwise. Doing so without the permission of the instructor will be considered an Honor Code violation and may also be a violation of other state and federal laws, such as the Copyright Act.
-
-Students who participate with their camera engaged or utilize a profile image are agreeing to have their video or image recorded. If you are unwilling to consent to have your profile or video image recorded, be sure to keep your camera off and do not use a profile image.
-
-Likewise, students who un-mute during class and participate orally are agreeing to have their voices recorded.  If you are not willing to consent to have your voice recorded during class, you will need to keep your mute button activated and communicate exclusively using the "chat" feature, which allows students to type questions and comments live.
 
 ### Office hours
 
-My designated office hours will be on Thursdays from 2:30 to 4:30pm. While we call these "office hours" they really should be "student hours". These are set times dedicated to all of you. This means that I will be in my office waiting for you to ~~come by~~ talk to me remotely with whatever questions you have. Take a look at this video for a more interesting presentation of what office hours really are and why you should come!
+My designated office hours will be on Monday and Wednesday from 2:30 to 3:30pm in PAIS 573. I'm also available outside of these times. I just ask that you schedule an appointment in advance. [Make an appointment with me here.](https://mccarthy-meetings.youcanbook.me/)
+
+
+While we call these "office hours" they really should be "student hours". These are set times dedicated to all of you. This means that I will be in my office waiting for you to come by with whatever questions you have. Take a look at this video for a more interesting presentation of what office hours really are and why you should come!
 
 <iframe src="https://player.vimeo.com/video/270014784" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="display: block; margin: 0 auto 1rem;"></iframe>
 
-I'll hold my designated office hours on Zoom, with meeting and password info on Canvas. I'm also available outside of those designated times. I just ask that you schedule an appointment in advance. [Make an appointment with me here](https://mccarthy-meetings.youcanbook.me/), and then use our office hours Zoom info.
+I'll hold my designated office hours in person, but if you'd prefer to meet over Zoom, please just let me know and we can make that work too.
 
-Finally, you can also always reach out to me through email. I almost always respond within 24 hours (often much sooner).
+Finally, for any questions that you don't think need a meeting, you can always reach out to me through email. I do my best to respond within 24 hours to all emails.
 
 ### Academic integrity
 
@@ -108,7 +103,7 @@ If you anticipate issues related to the format or requirements of this course, p
 
 ### Class-wide announcements
 
-I will post regular announcements to the class on *Canvas*, so please set up your notifications on *Canvas* accordingly. I will also use *Canvas* to post all grades and any other information that needs to stay in the class (like our *Zoom* meeting link for virtual class times and our gather.town password for office hours). All other course materials will be available on our class website, [econ372s21.classes.ianmccarthyecon.com](https://econ372s21.classes.ianmccarthyecon.com).
+I will post regular announcements to the class on *Canvas*, so please set up your notifications on *Canvas* accordingly. I will also use *Canvas* to post all grades and any other information that needs to stay in the class. All other course materials will be available on our class website, [econ372s22.classes.ianmccarthyecon.com](https://econ372s22.classes.ianmccarthyecon.com).
 
 ### Lauren's Promise
 
