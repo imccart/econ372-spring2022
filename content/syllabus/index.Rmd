@@ -20,7 +20,7 @@ drive_download("Bibliography/BibTeX_Library.bib", overwrite=TRUE, path='../../st
 
 `r blogdown::shortcode("courseinfo")`
 
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/syllabus-spring2021/syllabus.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of Syllabus</a></p>
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/syllabus-spring2022/syllabus.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of Syllabus</a></p>
 
 ## Course description
 
@@ -62,8 +62,6 @@ Each assignment will generally include both a theoretical and empirical section.
 ### Accessing data
 For all assignments and in-class activities, I will house all of the links to the data on our class website. For transparency, I will also point you to other GitHub repositories where available. If you're new to Git or GitHub and want to understand some of that better, take a look at [Grant McDermott's](https://grantmcdermott.com/) notes on [Data Science for Economists](https://github.com/uo-ec607/lectures) as well as [Jenny Bryan's](https://jennybryan.org/) online reference book, [Happy Git and GitHub with R](https://happygitwithr.com/). But again, knowledge of Git or GitHub is not expected or required for this class.
 
-### Logistics
-For day-to-day communication, grades, and other private information (such as Zoom meeting links), I'll use *Canvas*. I'll post all other materials to our class website.
 
 ### Turning things in
 All assignments should be submitted as PDF files on Canvas. Since we'll be using some math in all of our answers, I suggest that all assignments be completed through [Overleaf](https://www.overleaf.com/). As an Emory student, everyone has access to an institutional Overleaf account, which provides you with all the nice features of the product. You can use this to easily write PDF documents in a language known as "LaTeX". For a brief introductory video and links to more info, please see the video [here](https://www.overleaf.com/learn/latex/Questions/Getting_started_with_LaTeX_and_Overleaf_(formerly_writeLaTeX)).
@@ -83,7 +81,6 @@ All regular class meetings will take place in **White Hall, Room 102** on Monday
 ### Office hours
 
 My designated office hours will be on Monday and Wednesday from 2:30 to 3:30pm in PAIS 573. I'm also available outside of these times. I just ask that you schedule an appointment in advance. [Make an appointment with me here.](https://mccarthy-meetings.youcanbook.me/)
-
 
 While we call these "office hours" they really should be "student hours". These are set times dedicated to all of you. This means that I will be in my office waiting for you to come by with whatever questions you have. Take a look at this video for a more interesting presentation of what office hours really are and why you should come!
 
