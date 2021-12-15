@@ -48,65 +48,15 @@ Use the buttons below to open the slides either as an interactive website or as 
 **Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
 :::
 
-### 01: Physician agency
-
-What is *physician agency* and why do we care?
 
 <center>
 
 ```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/02-Agency/02-agency1.html")
+knitr::include_url("https://imccart.github.io/Econ372-content/02-Agency/02-agency.html")
 ```
 
 
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency1.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency1.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
 
 </center>
 
-
-### 02: Fee for service payments
-
-What is a fee-for-service payment model, and how is it related to physician agency?
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/02-Agency/02-agency2.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency2.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency2.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>
-
-
-### 03: Capitated payments
-
-What is a capitated payment model, and how is it related to physician agency?
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/02-Agency/02-agency3.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency3.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency3.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>
-
-
-### 04: Current issues in health care payments
-
-What's going on with current payment policies? Are we doing anything differently? If so, are we actually improving?
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/02-Agency/02-agency4.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency4.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency4.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>

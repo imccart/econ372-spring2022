@@ -55,65 +55,13 @@ Use the buttons below to open the slides either as an interactive website or as 
 **Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
 :::
 
-### 01: Pricing in a two-price market
-
-Most of our intro economics models assume that firms set a single price. What happens if firms set prices in one market but are price-takers in an overlapping market?
-
 <center>
 
 ```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/03-Pricing/03-comp1.html")
+knitr::include_url("https://imccart.github.io/Econ372-content/03-Pricing/03-pricing.html")
 ```
 
 
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp1.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp1.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>
-
-
-### 02: Prices and bargaining
-
-In reality, hospitals bargain with insurers over their prices. How do we study pricing in this context?
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/03-Pricing/03-comp2.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp2.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp2.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>
-
-
-### 03: Hospital competition
-
-What are the central issues when studying or measuring competition? What does the evidence say happens to hospital prices when competition changes?
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/03-Pricing/03-comp3.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp3.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp3.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>
-
-
-### 04: Mergers and prices
-
-What's going on with hospital mergers? What's the difference between an "in-market" and "out-of-market" merger, and why does it matter?
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/03-Pricing/03-comp4.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp4.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp4.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-pricing.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-pricing.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
 
 </center>

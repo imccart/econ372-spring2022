@@ -48,65 +48,13 @@ Use the buttons below to open the slides either as an interactive website or as 
 **Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
 :::
 
-### 01: Insurance and risk
-
-How do we quantify risk and how does the presence of risk facilitate an insurance market?
-
 <center>
 
 ```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/01-Insurance/01-insurance1.html")
+knitr::include_url("https://imccart.github.io/Econ372-content/01-Insurance/01-insurance.html")
 ```
 
 
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/01-Insurance/01-insurance1.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/01-Insurance/01-insurance1.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>
-
-
-### 02: Demand for health insurance
-
-What underlying factors dictate our willingness to pay for health insurance?
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/01-Insurance/01-insurance2.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/01-Insurance/01-insurance2.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/01-Insurance/01-insurance2.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>
-
-
-### 03: Adverse selection 
-
-What is adverse selection, and how does it affect health insurance markets?
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/01-Insurance/01-insurance3.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/01-Insurance/01-insurance3.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/01-Insurance/01-insurance3.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>
-
-
-### 04: Health insurance policy in the U.S.
-
-The history of U.S. health insurance is pretty interesting, and it's important to know some of the history to understand how we got where we are today. For this final section, we'll talk about how health insurance started in the U.S. and where it is now.
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/Econ372-content/01-Insurance/01-insurance4.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/01-Insurance/01-insurance4.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/01-Insurance/01-insurance4.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/01-Insurance/01-insurance.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/01-Insurance/01-insurance.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
 
 </center>
