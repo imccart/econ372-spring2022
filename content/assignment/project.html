@@ -1,7 +1,7 @@
 ---
 title: "Final Project"
 linktitle: "Final project"
-due_date: "2021-05-12"
+due_date: "2022-05-2"
 due_time: "11:59 PM"
 output:
   blogdown::html_page:
@@ -13,6 +13,7 @@ menu:
 type: docs
 ---
 
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 
 <p>The final project is a big part of your grade. This essentially replaces what would otherwise be a final exam. Please start as early as possible and save yourself lots of stress in May!</p>
@@ -22,40 +23,35 @@ type: docs
 <p>Building off of this new policy, this project is all about hospital “prices”. There are three main elements of the project:</p>
 <ol style="list-style-type: decimal">
 <li>Collect data on hospital prices, charges, and Medicare payment rates for select procedures</li>
-<li>Discuss the differences between these different measures of “price”</li>
-<li>Examine the implications of a “charge-based” pricing contract versus a “Medicare-based” pricing contract.</li>
+<li>Collect data on “compliance” with the transparency policy</li>
+<li>Discuss the differences between different measures of “price”</li>
+<li>Examine the relationship between hospital market power and compliance, and the relationship between market power and prices (where available)</li>
 </ol>
 </div>
 <div id="steps" class="section level2">
 <h2>Project Details</h2>
 <p>Your project analysis should proceed with the following steps:</p>
 <ol style="list-style-type: decimal">
-<li>Identify a hospital market in the U.S. that you would like to study. You can find a list of hospital markets on the shared Google Sheet, <a href="https://docs.google.com/spreadsheets/d/1uMsKWUxqYZb_JAx54A9tpK0pREnVLKf3Xv-vuLuCmkY/edit?usp=sharing">econ372-hospital-markets</a>, on the <strong>Markets</strong> tab. Put your name by the market you’d like to study.</li>
+<li>Identify two hospital markets in the U.S. that you would like to study. You can find a list of hospital markets on the shared Google Sheet, <a href="https://docs.google.com/spreadsheets/d/1uMsKWUxqYZb_JAx54A9tpK0pREnVLKf3Xv-vuLuCmkY/edit?usp=sharing">econ372-hospital-markets</a>, on the <strong>Markets</strong> tab. Put your name by the markets you’d like to study.</li>
 </ol>
-<p><strong>UPDATE:</strong> Hospitals have made it very hard to find the information you need, and many hospitals don’t present this information in any meaningful way. So, rather than each student selecting their own market to study, you can instead select from a list of markets in which I know the necessary data are available from a sufficient number of hospitals. These markets include (more markets may be added over time):
-- Indianapolis, IN
-- Miami, FL
-- Chicago, IL
-- Atlanta, GA</p>
-<p>Select the market you’d like to study and identify at least 3 hospitals from at least 2 different systems in that market that you will focus on for this project. You can look at the <strong>Hospitals</strong> on the Google Sheet to find a list of possible hospitals; however, this list is not comprehensive as it is a master list based on data in 2018, and some hospitals have opened or changed since then.</p>
-<p>Once you’ve selected a market and at least 3 hospitals, note these hospitals, the markets, and your name in the **Final Selections* tab of our Google Sheet. List these hospitals along with a brief description of each hospital in the first section of your paper. For example, is the hospital a specialty hospital, or does it have any reputation that you’re aware of as a “good” or “bad” hospital in some area?</p>
+<p>After selecting your markets, identify 10 hospitals from at least 2 different systems in those markets that you will focus on for this project. You can look at the <strong>Hospitals</strong> on the Google Sheet to find a list of possible hospitals; however, this list is not comprehensive as it is a master list based on data in 2018, and some hospitals have opened or changed since then. Put your name next to each hospital you’ve selected in the spreadsheet.</p>
+<p><strong>Only one student can select any hospital, so if someone has already picked a hospital, you’ll have to find another one.</strong></p>
 <ol start="2" style="list-style-type: decimal">
-<li><p>Collect data on the hospitals’ charges and negotiated prices. These may be difficult to find, and the data will likely be in different formats across different hospitals. Once you’ve found the data, paste the link to the file in our <a href="https://docs.google.com/spreadsheets/d/1uMsKWUxqYZb_JAx54A9tpK0pREnVLKf3Xv-vuLuCmkY/edit?usp=sharing">econ372-hospital-markets</a> Google Sheet on the <strong>Final Selections</strong> tab. Be sure to paste the specific link for each hospital (not just one link for a whole market). Here are a couple of hints to help you find these links:</p>
-<ul>
-<li>According to the CMS final rule files for the price transparency initiative, all of the new pricing files should follow the same naming convention, <code>&lt;ein&gt;_&lt;hospital-name&gt;_standardcharges.[json|xml|csv]</code>. <code>ein</code> stands for Employer Identification Number. <strong>Note:</strong> Not all hospitals follow this naming convention, so it may take some time to find the right files.</li>
-<li>Google has several advanced search options that allow you to find all sorts of very specific files. For example, if you wanted to find pdf files linked in a certain url, you would type <code>filetype:pdf inurl: &lt;url&gt;</code> directly into the search bar. This will give you a list of results for the links to pdf files within the specific url you provided. <strong>Note:</strong> Google might think you’re a robot with these types of searches, so be ready to prove otherwise.</li>
-</ul></li>
-<li><p>Collect data on Medicare payment rates for the same hospitals and same procedures. These data are publicly available from the <a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Inpatient">Medicare Provider Utilization and Payment Data: Inpatient</a> files. Focus on the 2018 data, since that’s the most recent data available.</p></li>
-<li><p>Create a dataset that contains data from 2 and 3. In these data, each row should be a hospital/procedure pair, and the columns should include information such as: “hospital ID”; “DRG code”; “Total discharges”; “gross charge”; “negotiated payment”; and “Medicare payment”. Save your dataset as a “.csv” file and include it as part of your project submission.</p></li>
-<li><p>Provide a table of summary values for each hospital. For example, your table could show the mean charge and payments for these procedures by hospital.</p></li>
-<li><p>Calculate the range of charges, negotiated prices, and Medicare payments <em>across hospitals</em> in your market. Show these ranges in a figure.</p></li>
+<li>Try your best to find a “machine-readable” file that presents the negotiated payments for each hospital. These files could be in one of several possible formats, including “.xlsx”, “.csv”, “.txt”, or “.json”. Regardless of the format, the files are supposed to include negotiated payments for well-identified services. For the inpatient setting, this should mean payments for specific DRG codes, and for outpatient services, this should mean payments for specific CPT or HCPCS codes. If you instead see a giant list of services with no discernible “codes”, then this is a noncompliant hospital. If you’re unsure, just ask!</li>
+</ol>
+<p>Here are a couple of hints to help you find these links:</p>
+<pre><code>+ According to the CMS final rule files for the price transparency initiative, all of the new pricing files should follow the same naming convention, `&lt;ein&gt;_&lt;hospital-name&gt;_standardcharges.[json|xml|csv]`. `ein` stands for Employer Identification Number. **Note:** Not all hospitals follow this naming convention, so it may take some time to find the right files.
++ Google has several advanced search options that allow you to find all sorts of very specific files. For example, if you wanted to find pdf files linked in a certain url, you would type `filetype:pdf inurl: &lt;url&gt;` directly into the search bar. This will give you a list of results for the links to pdf files within the specific url you provided. **Note:** Google might think you&#39;re a robot with these types of searches, so be ready to prove otherwise.</code></pre>
+<p>Once you’ve found a proper link, paste the link to the file in our <a href="https://docs.google.com/spreadsheets/d/1uMsKWUxqYZb_JAx54A9tpK0pREnVLKf3Xv-vuLuCmkY/edit?usp=sharing">econ372-hospital-markets</a> Google Sheet on the <strong>Hospitals</strong> tab. Note in the “Compliance” column whether the hospital is compliant with the rule or not. Simply write “yes” if the hospital is compliant and “no” otherwise. If the hospital is not compliant, please still post the link to the file you’ve found (if such a link exists).</p>
+<ol start="3" style="list-style-type: decimal">
+<li><p>Collect data on Medicare payment rates and charges for the same hospitals and same procedures. These data are often provided as part of the same machine-readable file you found earlier, but if not, Medicare payments and charges are also publicly available from the <a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Inpatient">Medicare Provider Utilization and Payment Data: Inpatient</a> files. Focus on the 2019 data, since that’s the most recent data available.</p></li>
+<li><p>Create a dataset that contains data from 2 and 3. In these data, each row should be a hospital/procedure pair, and the columns should include information such as: “hospital ID”; “DRG code”; “gross charge”; “Medicare payment”; “compliance”; and “negotiated payment” (if the hospital is compliant). Save your dataset as a “.csv” file and include it as part of your project submission.</p></li>
+<li><p>Select five DRG codes that you’d like to study in more detail, and provide a table of summary values for each hospital. For example, your table could show the mean charge and payments for these procedures by hospital, as well as the count of hospitals that are compliant.</p></li>
+<li><p>For those same DRG codes, calculate the range of charges, negotiated prices, and Medicare payments <em>across hospitals</em> in your market. Show these ranges in a figure.</p></li>
 <li><p>Highlight one interesting aspect of your data and discuss this in your report. Support your discussion with at least one figure or table. You get to choose what is “interesting” here. Think of this as summarizing your findings from Q2-Q6 above.</p></li>
-<li><p>Now let’s think about how these pricing figures relate to competition. Calculate each hospital’s market share and provide a scatterplot of the market share and negotiated payments. Pick whatever procedure you’d like to focus on. In your figure, please highlight the different hospitals in some way (e.g., use different colors for each hospital or different shapes for each plot).</p></li>
-<li><p>What do you take from these data? Does it seem as if the larger or more powerful hospital has a higher price? Relate these findings to the bargaining model we covered in class, focusing in particular on the notion of the insurer and hospital’s outside options. Support your conclusions with at least one peer-reviewed academic paper.</p></li>
-<li><p>Now let’s think about contracts. For each hospital in your data, try to determine whether their negotiated prices are more similar to “markup over Medicare” or “percentage of charges”. Explain your conclusion and support your determination with a figure or a table. How does this conclusion relate to the hospital’s market power?</p></li>
-<li><p>Finally, go find some measure of quality for each hospital. Ideally, these quality measures would be specific to each procedure, but that’s likely not possible, so any hospital-level measure of quality will do. This could be patient ratings on Google Reviews, or it could be <a href="https://qualitynet.cms.gov/inpatient/public-reporting/overall-ratings">official hospital quality measures</a> from CMS. How do the hospital prices correlate with these quality measues (do they seem to be positively or negatively correlated)? Support your conclusions with at least one peer-reviewed academic paper.</p></li>
-<li><p>Given your analysis and your experience collecting these data, do you think the price transparency initiative will help to reduce hospital prices? Why or why not?</p></li>
-<li><p>Reflect on your work. Describe one thing you learned from this process and one area that left you confused or unclear.</p></li>
+<li><p>Now let’s think about how these pricing figures relate to competition. Calculate each hospital’s market share and provide a scatterplot of the market share and negotiated payments. Pick whatever procedure you’d like to focus on. In your figure, please highlight the different hospitals in some way (e.g., use different colors for each hospital or different shapes for each plot). Note: you may need to collect more data for this, such as data on total discharges. These are available from the <a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Inpatient">Medicare Provider Utilization and Payment Data: Inpatient</a> files.</p></li>
+<li><p>Finally, let’s think about how hospital compliance is related to competition and market power. Is there anything common among hospitals that you find to be non-compliant?</p></li>
+<li><p>Reflect on your work. Describe one thing you learned from this process and one area that left you confused or unclear. Given your analysis and your experience collecting these data, do you think the price transparency initiative will help to reduce hospital prices?</p></li>
 </ol>
 </div>
 <div id="format" class="section level2">
@@ -64,34 +60,30 @@ type: docs
 <ul>
 <li><strong>Format</strong>: Double-spaced text with clearly defined section headings and subheadings</li>
 <li><strong>Length</strong>: At least 5 and no more than 10 pages, excluding references, tables, or figures</li>
-<li><strong>Citations</strong>: At least 3 peer-reviewed academic journal articles</li>
-<li><strong>Data Visualization</strong>: At least two tables and two figures</li>
+<li><strong>Data Visualization</strong>: At least one table and one figure</li>
 </ul>
 <p>Please organize your final report along the following sections:</p>
 <ol style="list-style-type: decimal">
 <li><strong>Description of your selected market and hospitals</strong>: Relates to Q1 in <a href="#steps">Project Details</a></li>
 <li><strong>Hospital prices, charges, and Medicare payments</strong>: Relates to Q2-Q7 in <a href="#steps">Project Details</a></li>
-<li><strong>Pricing and competition</strong>: Relates to Q8-Q10 in <a href="#steps">Project Details</a></li>
-<li><strong>Pricing and quality</strong>: Relates to Q11 in <a href="#steps">Project Details</a></li>
-<li><strong>Summary and conclusions</strong>: Relates to Q12-Q13 in <a href="#steps">Project Details</a></li>
+<li><strong>Pricing and competition</strong>: Relates to Q8 in <a href="#steps">Project Details</a></li>
+<li><strong>Compliance and competition</strong>: Relates to Q9 in <a href="#steps">Project Details</a></li>
+<li><strong>Summary and conclusions</strong>: Relates to Q10 in <a href="#steps">Project Details</a></li>
 </ol>
 </div>
 <div id="grading-criteria" class="section level2">
 <h2>Grading Criteria</h2>
-<p>Your final project grade is based off of 140 points as allocated below. Components worth 5 points will be graded in single point increments. All other components will be graded in 5 point increments. For example, the “Discussion of Payments” component can receive credit of 0, 5, 10, or 15 points. This rubric is designed to ensure grading is fair across all students, as it is nearly impossible to discern single-point differences in credit for long-answer questions.</p>
+<p>Your final project grade is based off of 140 points as allocated below. Components worth 5 points will be graded in single point increments. All other components will be graded in 5 point increments. For example, the “Discussion of Payments” component can receive credit of 0, 5, 10, 15, or 20 points. This rubric is designed to ensure grading is fair across all students, as it is nearly impossible to discern single-point differences in credit for long-answer questions, figures, etc.</p>
 <ul>
-<li><strong>Follow instructions</strong> (10 points): Does your report meet the requirements for length, formatting, citations, and data visualization?</li>
+<li><strong>Follow instructions</strong> (10 points): Does your report meet the requirements for length, formatting, and data visualization?</li>
 <li><strong>Grammar</strong> (5 points): Does your report have sufficiently few grammatical mistakes, typos, etc.?</li>
-<li><strong>Pricing data</strong> (5 points): Did you provide the link to the pricing data in our Google Sheet as described in Q2 in <a href="#steps">Project Details</a>? <strong>UPDATE:</strong> Many of you may select the same hospitals and therefore have the same links. That’s OK. I still want everyone to post their own link in the **Final Selections* tab of our Google Sheet.</li>
+<li><strong>Pricing data</strong> (5 points): Did you provide the link to the pricing data in our Google Sheet as described in Q2 in <a href="#steps">Project Details</a>?</li>
+<li><strong>Compliance</strong> (5 points): Did you note which hospitals were compliant and non-compliant on the class spreadsheet.</li>
 <li><strong>Complete data</strong> (15 points): Did you create and submit the final dataset as described in Q4 in <a href="#steps">Project Details</a>?</li>
 <li><strong>Data summary</strong> (20 points): Did you summarize your data as described in Q5 and Q6 in <a href="#steps">Project Details</a>?</li>
-<li><strong>Discussion of payments</strong> (15 points): Did you discuss your pricing data as describe in Q7 in <a href="#steps">Project Details</a>?</li>
-<li><strong>Competition data</strong> (15 points): Did you incorporate and summarize data on hospital market power and prices as described in Q8 in <a href="#steps">Project Details</a>?</li>
-<li><strong>Discussion of competition</strong> (10 points): Did you discuss your findings related to competition and prices as described in Q9 in <a href="#steps">Project Details</a>?</li>
-<li><strong>Competition and contracts</strong> (15 points): Did you try to determine the type of contract that the hospitals appear to have negotiated as described in Q10 in <a href="#steps">Project Details</a>?</li>
-<li><strong>Quality and pricing</strong> (10 points): Did you incorporate quality information and discuss those data as described in Q11 in <a href="#steps">Project Details</a>?</li>
-<li><strong>Conclusion</strong> (10 points): Did you relate your findings to the price transparency initiative as described in Q12 in <a href="#steps">Project Details</a>?</li>
-<li><strong>Reflection</strong> (15 points): Did you reflect on your work as described in Q13 in <a href="#steps">Project Details</a>?</li>
-<li><strong>Bonus</strong>: Provide additional links to the pricing data in the <strong>Hospitals</strong> tab of the Google Sheet. You’ll receive 1 extra point for every extra link you provide (up to 5 additional links).</li>
+<li><strong>Discussion of payments</strong> (20 points): Did you discuss your pricing data as described in Q7 in <a href="#steps">Project Details</a>?</li>
+<li><strong>Payments and competition</strong> (20 points): Did you incorporate and summarize data on hospital market power and prices as described in Q8 in <a href="#steps">Project Details</a>?</li>
+<li><strong>Compliance and competition</strong> (20 points): Did you discuss your findings related to compliance and competition as described in Q9 in <a href="#steps">Project Details</a>?</li>
+<li><strong>Reflection</strong> (20 points): Did you reflect on your work as described in Q10 in <a href="#steps">Project Details</a>?</li>
 </ul>
 </div>
