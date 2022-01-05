@@ -1,7 +1,6 @@
 ---
 title: "Hospital Pricing and Competition"
 linktitle: "M3: Competition"
-date: "2022-01-06"
 menu:
   content:
     parent: Module Content
