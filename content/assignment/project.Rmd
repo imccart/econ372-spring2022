@@ -1,7 +1,7 @@
 ---
 title: "Final Project"
 linktitle: "Final project"
-due_date: "2022-05-2"
+due_date: "2022-05-02"
 due_time: "11:59 PM"
 output:
   blogdown::html_page:
