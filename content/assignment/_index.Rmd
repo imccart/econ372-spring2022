@@ -1,6 +1,6 @@
 ---
 title: General information
-date: "2022-1-03"
+date: "2022-01-05"
 menu:
   assignment:
     parent: Assignments
@@ -12,21 +12,23 @@ output:
     toc: true
 ---
 
-Below are basic descriptions of each category of assignments for this semester. More details are available on the individual pages for each assignment. Please be sure to check the due dates on each assignment. Late assignments will receive an automatic 10% reduction in the grade for each day the assignment is turned in after the due date.
+Below are basic descriptions of each category of assignments for this semester. More details are available on the individual pages for each assignment. Please be sure to check the due dates on each assignment. Late assignments will receive an automatic 2% reduction in the grade for each day the assignment is turned in after the due date.
 
 ## Homework
 Please submit all of your homework answers as a PDF through **Canvas**. You can use Word and "print" to PDF, but I also encourage you to use [Overleaf](https://www.overleaf.com/), which will help you to easily create PDFs and is much better for writing math-oriented documents. Overleaf is also fully cloud-based, and as an Emory student, you have full access to Overleaf Professional. 
 
-Each homework assignment is worth 60 points toward your final grade. Each homework assignment will have 20 individual parts (think 4 or 5 questions each with 4 or 5 individual components), so you should expect each part of each question to be worth 3 points. Each part will be graded as follows:
+The only **requirements** for your submissions are: 1) they are submitted as PDFs; and 2) your answers are legible and organized. Please **DO NOT** write tiny answers in margins of papers, scan as PDF, and submit. I will deduct some points for these types of submissions, depending on how egregious it is.
+
+Each homework assignment is worth 60 points toward your final grade, consisting of 20 individual parts (think 4 or 5 questions each with 4 or 5 individual components). You should expect each part of each question to be worth 3 points. Each part will be graded as follows:
 
 - **3 points:** Correct answer
 - **2 points:** Good try and close, but with minor mistakes
 - **1 point:** Incomplete work but an attempt nonetheless
 - **0 points:** No work toward the answer (e.g., completely blank or some initial equation written without any attempt to solve)
 
-All of the homework assignments have both a "theoretical" section and an "empirical" section. The empirical work is intended to meet two requirements: 1) it must be accessible and achievable for someone without a background in data analysis; and 2) it must involve real-life data. These to objectives are somewhat conflicting, but I've done my best to pre-clean the data so that things are simple on your end. 
+All of the homework assignments have both a "theoretical" section and an "empirical" section. The empirical work is intended to meet two requirements: 1) it must be accessible and achievable for someone without a background in data analysis; and 2) it must involve real-world data. These two objectives are somewhat conflicting, but I've done my best to pre-clean the data so that things are simple on your end. 
 
-The empirical part of the assignments can be completed in any data software, including Excel. I also provide the data in **R** format if you're familiar with that language. If you'd like a refresher on **R** or would like to give it a shot from scratch, take a look at some of the links on our [resources](/resource/) page.
+The empirical part of the assignments can be completed in any data software, including Excel. I also provide the data in `R` format if you're familiar with that language. If you'd like a refresher on `R` or would like to give it a shot from scratch, take a look at some of the links on our [resources](/resource/) page.
 
 ## Exam
 We only have one exam this semester, and it will cover content from Modules 1 and 2. The exam is worth 60 points toward your final grade. Please see the [Mid-term Exam](/assignment/exam1/) page for more details. 
