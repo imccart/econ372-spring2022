@@ -17,9 +17,9 @@ output:
 knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
 ```
 
-For each Module, I have an "airport" idea. This is something I took from [Invisible Learning](https://www.amazon.com/Invisible-Learning-legendary-Harvard-statistics-ebook/dp/B08P7TJZSQ). An "airport" idea is something that is "so memorable, so deeply entrenched in your brain and how you view the world, that in five years' time -- when I see you at an airport -- you will be able to explain those ideas to me even if you've forgotten everything else." These are bigger than learing outcomes or learning objectives.
+For each Module, I have an "airport" idea. This is something I took from [Invisible Learning](https://www.amazon.com/Invisible-Learning-legendary-Harvard-statistics-ebook/dp/B08P7TJZSQ). An "airport" idea is something that is "so memorable, so deeply entrenched in your brain and how you view the world, that in five years' time -- when I see you at an airport -- you will be able to explain those ideas to me even if you've forgotten everything else." These are bigger than learning outcomes or learning objectives.
 
-The airport idea for Module 0 is this: "Privatized health care introduces a web of complex incentives." This does **not** say that privatized health care is bad, or that it is better or worse that fully public health care...just that using private prices to allocate resources in health care is complicated.
+The airport idea for Module 0 is this: "Privatized health care introduces a web of complex incentives." This does **not** say that privatized health care is bad, or that it is better or worse than fully public health care...just that using private prices to allocate resources in health care is complicated.
 
 ## Readings and other links
 

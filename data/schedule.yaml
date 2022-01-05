@@ -144,6 +144,7 @@ lessons:
   - title: '<span class="content-title">Exam Review</span>'
     session: "Class 16"
     date: "Mar 21"
+    guide: "guide10"
     bg: 1
 
   - title: '<i class="fas fa-star"></i> **Mid-term Exam**'
@@ -160,7 +161,7 @@ lessons:
     session: "Class 18-19"
     date: "Mar 28, 30"
     content: "03-content"
-    guide: "guide10"
+    guide: "guide11"
     bg: 1
 
   - title: 'Check-in 9'
@@ -174,7 +175,7 @@ lessons:
     session: "Class 20-21"
     date: "Apr 4, 6"
     content: "03-content"
-    guide: "guide11"
+    guide: "guide12"
     bg: 1
 
   - title: 'Check-in 10'
@@ -188,7 +189,7 @@ lessons:
     session: "Class 22-23"
     date: "Apr 11, 13"
     content: "03-content"
-    guide: "guide12"
+    guide: "guide13"
     bg: 1
 
   - title: 'Check-in 11'
@@ -202,7 +203,7 @@ lessons:
     session: "Class 24-25"
     date: "Apr 18, 20"
     content: "03-content"
-    guide: "guide13"
+    guide: "guide14"
     bg: 1
 
   - title: 'Check-in 12'
