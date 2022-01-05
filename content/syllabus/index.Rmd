@@ -24,14 +24,14 @@ drive_download("Bibliography/BibTeX_Library.bib", overwrite=TRUE, path='../../st
 
 ## Course description
 
-This course examines the industrial organization of health care markets in the U.S., including underlying theory, empirical findings, and related health care policy. We will study insurance markets, informational asymmetries between physicians and patients, and hospital pricing.
+This course examines the industrial organization of health care markets in the U.S., including underlying theory, empirical findings, and related health care policy. We will focus specifically on insurance markets, informational asymmetries between physicians and patients, and hospital pricing.
 
 **Prerequisites:** Economics 101 (Principles of Microeconomics). Some basic knowledge of calculus and derivatives is also required, but not necessarily the official Math 111 (Calculus I) course at Emory. 
 
 
 ## Learning outcomes
 
-The broad goal of the class is to understand the structure of health care markets in the U.S. The course is designed around three areas, reflecting the different interactions an individual would have when navigating the health care system - first choosing an insurance plan, then visiting a physician, and ultimately receiving hospital care. Our discussion of hospital care is further divided into issues of hospital objective functions, measuring hospital quality, and hospital competition. For each segment, we will develop the underlying theoretical model(s), cover recent empirical studies in the area, and discuss relevant health care policy. My specific goals are that, by the end of this course, you will be able to:
+The broad goal of the class is to understand the structure of health care markets in the U.S. The course is designed around three areas, reflecting the different interactions an individual would have when navigating the health care system --- first choosing an insurance plan, then visiting a physician, and ultimately receiving hospital care. Our discussion of hospital care is further divided into issues of hospital objective functions, measuring hospital quality, and hospital competition. For each segment, we will develop the underlying theoretical model(s), cover recent empirical studies in the area, and discuss relevant health care policy. My specific goals are that, by the end of this course, you will be able to:
 
 1. Explain the structure of the U.S. health care system, its main components, and its history
 
@@ -51,7 +51,7 @@ There are more specific learning outcomes for each module described on the relev
 If you're here, then you know where to find our class website. Well done! Hopefully it's clear by the existence of the site that this is where I plan to host most of our information such as course materials, notes/slides, assignments. I'll also use Canvas to distribute any papers or specific readings that aren't available publicly, as well as post information that I don't want public like virtual meeting passwords (if needed) and grades.
 
 ### Readings
-There are two recommended textbooks for this class. One is an intermediate microeconomics textbook that will cover much of the basic economic theory, and another is a health economics textbook. We will supplement these textbooks with other readings listed below in the detailed schedule, as well as online.
+There are two recommended textbooks for this class. One is an intermediate microeconomics textbook that will cover much of the basic economic theory, and another is a health economics textbook. We will supplement these textbooks with other readings listed below in the detailed schedule, as well as online presentations, policy papers, and videos.
 
   - @pindyck2018
   - @sloan2012
@@ -60,7 +60,7 @@ There are two recommended textbooks for this class. One is an intermediate micro
 Each assignment will generally include both a theoretical and empirical section. Most of the empirical work involves basic summary statistics. This can be done in just about any spreadsheet or statistics package. I'll use `R` for my work, but you are free to use whatever software you're most comfortable with. I encourage you to use `R` or `Python` simply because these are the most common programs used in applied data analysis right now, but you can certainly use Excel or Google Sheets if you'd prefer. This is **not** a statistics or econometrics class, so I do not expect you to have any statistics programming knowledge.
 
 ### Accessing data
-For all assignments and in-class activities, I will house all of the links to the data on our class website. For transparency, I will also point you to other GitHub repositories where available. If you're new to Git or GitHub and want to understand some of that better, take a look at [Grant McDermott's](https://grantmcdermott.com/) notes on [Data Science for Economists](https://github.com/uo-ec607/lectures) as well as [Jenny Bryan's](https://jennybryan.org/) online reference book, [Happy Git and GitHub with R](https://happygitwithr.com/). But again, knowledge of Git or GitHub is not expected or required for this class.
+For all assignments and in-class activities, I will house all of the links to the data on our class website, and I'll place the relevant datasets on Canvas. For transparency, I will also point you to other GitHub repositories where available. If you're new to Git or GitHub and want to understand some of that better, take a look at [Grant McDermott's](https://grantmcdermott.com/) notes on [Data Science for Economists](https://github.com/uo-ec607/lectures) as well as [Jenny Bryan's](https://jennybryan.org/) online reference book, [Happy Git and GitHub with R](https://happygitwithr.com/). But again, knowledge of Git or GitHub is not expected or required for this class.
 
 
 ### Turning things in
