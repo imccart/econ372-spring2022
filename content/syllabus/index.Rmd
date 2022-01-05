@@ -66,7 +66,9 @@ For all assignments and in-class activities, I will house all of the links to th
 
 
 ### Turning things in
-All assignments should be submitted as PDF files on Canvas. Since we'll be using some math in all of our answers, I suggest that all assignments be completed through [Overleaf](https://www.overleaf.com/). As an Emory student, everyone has access to an institutional Overleaf account, which provides you with all the nice features of the product. You can use this to easily write PDF documents in a language known as "LaTeX". For a brief introductory video and links to more info, please see the video [here](https://www.overleaf.com/learn/latex/Questions/Getting_started_with_LaTeX_and_Overleaf_(formerly_writeLaTeX)).
+All assignments should be submitted as PDF files on Canvas. Since we'll be using some math in all of our answers, I suggest that assignments be completed through [Overleaf](https://www.overleaf.com/). As an Emory student, everyone has access to an institutional Overleaf account, which provides you with all the nice features of the product. You can use this to easily write PDF documents in a language known as "LaTeX". For a brief introductory video and links to more info, please see the video [here](https://www.overleaf.com/learn/latex/Questions/Getting_started_with_LaTeX_and_Overleaf_(formerly_writeLaTeX)). Overleaf is not a requirement, but I think it will save some you time in the long run. You are also welcome to use Word, Google Docs, LibreOffice, etc., and convert to PDF for your final submission.
+
+The only **requirements** are that your submission is a PDF and that your answers are legible and organized. Please **DO NOT** write tiny answers in margins of papers, scan as PDF, and submit. I will deduct some points for these types of submissions.
 
 
 ## Course policies
