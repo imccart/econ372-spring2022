@@ -30,6 +30,3 @@ Welcome to Economics of Health Care Markets! We're going to have a great time th
 - Go to [latlong.net](https://www.latlong.net/) to find your current latitude and longitude, and then go to our [class latitude and longitude spreadsheet](https://docs.google.com/spreadsheets/d/1qfdFm21lc7ouVliD66Je3jse9XkmqbpkM0C68oEGoXo/edit?usp=sharing) to enter your latitude and longitude.
 
 
-### Updates
-Looks like our class "location" (as of Thursday afternoon) is Mekmene Ben Amar, Algeria (33.887685,-0.521686). This is a municipality of the Naama Province. Apparently, this is a good place to be if you want to be stung by a scorpion, [see paper](https://www.researchgate.net/profile/Schehrazad_Selmane/publication/280877146_Scorpion_Envenomations_and_Climate_Conditions_the_case_of_Naama_Province_in_Algeria/links/55c9c12808aeca747d67391f.pdf). So we have that going for us!
-  
