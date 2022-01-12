@@ -29,4 +29,15 @@ Welcome to Economics of Health Care Markets! We're going to have a great time th
 - Complete the [Math Review](/resource/review1) and [Practice Problems](/resource/review2)
 - Go to [latlong.net](https://www.latlong.net/) to find your current latitude and longitude, and then go to our [class latitude and longitude spreadsheet](https://docs.google.com/spreadsheets/d/1qfdFm21lc7ouVliD66Je3jse9XkmqbpkM0C68oEGoXo/edit?usp=sharing) to enter your latitude and longitude.
 
+### Pre-class supplemental materials
 
+**Day 1: Wednesday, January 12, 2022**
+
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/econ372-content/00-Introduction/preclass-01.html")
+```
+
+</center>
