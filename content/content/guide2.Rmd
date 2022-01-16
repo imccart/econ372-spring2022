@@ -26,6 +26,7 @@ Today is all about risk and uncertainty. We will eventually use these concepts t
 - Discussion of Humana and importance of risk pools
 - In-class example on expected values
 - In-class problem on expected costs, expected utilities, and risk aversion. The worksheet is [here](/resource/wksheet1.html).
+- First [weekly check-in](/assignment/weekly-check-in.html) due on Friday.
 
 ### Supplemental readings
 - Sections 5.1-5.2 of @pindyck2018
