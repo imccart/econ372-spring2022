@@ -1,6 +1,9 @@
 ---
 title: "Weekly Guide 2"
 linktitle: "Week 2"
+citeproc: true
+bibliography: ../../static/bib/BibTeX_Library.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
 menu:
   content:
     parent: Weekly Guides
