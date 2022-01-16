@@ -25,7 +25,7 @@ The big picture economics concept of this module, or the "airport" idea that I h
 
 Links to papers are listed alongside the full reference. PDFs of each paper are also available on **Canvas**.
 
-- <i class="fas fa-book"></i> Required readings for this module:
+- <i class="fas fa-book"></i> Readings for this module:
     - Sections 5.1-5.2 and 17.1 of [@pindyck2018]
     - Chapter 4 of [@sloan2012]
     - [@einav2011]. Link to paper [here](https://www.aeaweb.org/articles?id=10.1257/jep.25.1.115).

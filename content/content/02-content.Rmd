@@ -24,7 +24,7 @@ The big picture economics concept of this module, or the "airport" idea that I h
 
 ## Readings and other links
 
-- <i class="fas fa-book"></i> Required readings for this module:
+- <i class="fas fa-book"></i> Readings for this module:
     - Section 17.4 of [@pindyck2018]
     - Sections 5.3 and 17.2 of [@sloan2012]
     - [@mcguire2000]
