@@ -30,10 +30,7 @@ This week we'll talk about risk premiums and examine demand for health insurance
 - Second [weekly check-in](/assignment/weekly-check-in.html) due on Friday.
 
 ### Supplemental readings
-- Sections 5.1-5.2 of @pindyck2018
 - Chapter 4 of @sloan2012
-- @einav2011. Link to paper [here](https://www.aeaweb.org/articles?id=10.1257/jep.25.1.115).
-
 
 ### Pre-class supplemental materials
 
