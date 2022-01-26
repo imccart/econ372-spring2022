@@ -46,3 +46,17 @@ knitr::include_url("https://imccart.github.io/econ372-content/01-Insurance/precl
 <p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ372-content/01-Insurance/preclass-03.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a>
 
 </center>
+
+
+**Day 4: Wednesday, January 26, 2022**
+
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/econ372-content/01-Insurance/preclass-04.html")
+```
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ372-content/01-Insurance/preclass-04.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a>
+
+</center>
