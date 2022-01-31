@@ -40,7 +40,7 @@ lessons:
     bg: 2
     bottomborder: True
 
-  - title: '<span class="content-title">Advserse selection</span>'
+  - title: '<span class="content-title">Adverse selection</span>'
     session: "Class 4-5"
     date: "Jan 31, Feb 2"
     content: "01-content"
