@@ -28,6 +28,7 @@ This week concludes our study of health insurance. We'll finish this module with
 ### Activities
 - Review Medicare Advantage and FFS data for Homework 1
 - Discuss @mcwilliams2012. Link to paper [here](https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2011.1344)
+- [Homework 1](/assignment/homework1.html) due this Friday!
 
 ### Supplemental Readings
 - [Slides on Insurance Terms](https://docs.google.com/presentation/d/1Nwco7JpbZ-R0C3_PXSDfEASTCAu_5R_JuwrhFjzmy2c/edit?usp=sharing)
