@@ -27,9 +27,9 @@ The big picture economics concept of this module, or the "airport" idea that I h
 - <i class="fas fa-book"></i> Readings for this module:
     - Section 17.4 of [@pindyck2018]
     - Sections 5.3 and 17.2 of [@sloan2012]
-    - [@mcguire2000]
-    - [@gruber1996]
-    - [@clemens2014]. **We'll discuss this paper at the end of the module.**
+    - [@mcguire2000]. Link to Chapter [here](https://www.sciencedirect.com/science/article/abs/pii/S1574006400801687)
+    - [@gruber1996]. Link to paper [here](https://www.jstor.org/stable/2555794).
+    - [@clemens2014]. **We'll discuss this paper at the end of the module.** Link to paper [here](https://www.aeaweb.org/articles?id=10.1257/aer.104.4.1320).
 - <i class="fas fa-external-link-square-alt"></i> Supplemental information we'll use throughout this module.
     - [The Dartmouth Atlas](https://www.dartmouthatlas.org/interactive-apps/)
     - The Atlantic, December 2013, ["You're Getting Too Much Healthcare](https://www.theatlantic.com/health/archive/2013/12/youre-getting-too-much-healthcare/281896/)
