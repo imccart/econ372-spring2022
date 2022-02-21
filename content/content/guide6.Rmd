@@ -34,5 +34,3 @@ This week, we'll move on from insurance markets and into physician treatment dec
 - Sections 5.3 and 17.2 of [@sloan2012]
 - [@mcguire2000]. Link to Chapter [here](https://www.sciencedirect.com/science/article/abs/pii/S1574006400801687)
 - The Atlantic, December 2013, ["You're Getting Too Much Healthcare](https://www.theatlantic.com/health/archive/2013/12/youre-getting-too-much-healthcare/281896/)
-- [Slides on physicians and financial incentives](https://docs.google.com/presentation/d/1mDrHqX3csv8nBaNSmmq5IHjq75E2k50mshLERnrEsfE/edit?usp=sharing)
-- [Slides on physician agency and lower limb MRI](https://docs.google.com/presentation/d/1DXCjBHg4pDRn-cxudsEpYGLWYuBesZc6RguBXebrens/edit?usp=sharing)
