@@ -3,7 +3,7 @@ title: "Introduction to U.S. Health Care"
 linktitle: "M0: Getting started"
 menu:
   content:
-    parent: Module Content
+    parent: Module 0
     weight: 1
 type: docs
 bibliography: "../../static/bib/BibTeX_Library.bib"
@@ -21,9 +21,22 @@ For each Module, I have an "airport" idea. This is something I took from [Invisi
 
 The airport idea for Module 0 is this: "Privatized health care introduces a web of complex incentives." This does **not** say that privatized health care is bad, or that it is better or worse than fully public health care...just that using private prices to allocate resources in health care is complicated.
 
-## Readings and other links
+Below are our specific objectives, activities, and other resources for this introductory module.
 
+## Objectives
+- Recall the total annual expenditures on health and health care in the U.S.
+- Compare U.S. health expenditures and quality to that of other countries
+- Explain the debate surrounding the role of prices in U.S. health care expenditures
+- Summarize some of the unique economic features of the U.S. health care market
+ 
+## Activities 
 - Review the [syllabus](/syllabus/), [schedule](/schedule/), [content](/content/), and [assignments](/assignment/) pages for this class...just to get a feel for the site and how to navigate all of the information.
+- Discussion of U.S. health care expenditures and quality
+- Overview of class and introductions
+- Complete the [Math Review](/resource/review1) and [Practice Problems](/resource/review2)
+
+
+## Readings and related info
 - <i class="fas fa-book"></i> These articles are more of a guide for the semester. We'll touch on most of the topics covered in the articles over the next several weeks. Reading these papers now can really help to prepare you for the whole semester.
     - [@arrow1963]. Link to paper [here](https://www.jstor.org/stable/1812044).
     - [@gaynor2015jel]. Link to paper [here](https://www.aeaweb.org/articles?id=10.1257/jel.53.2.235).
@@ -36,9 +49,7 @@ The airport idea for Module 0 is this: "Privatized health care introduces a web 
     - Blog, Random Critical Analysis, November 2018. ["Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith."](https://randomcriticalanalysis.com/2018/11/19/why-everything-you-know-about-healthcare-is-wrong-in-one-million-charts-a-response-to-noah-smith/)
 
 
-
 ## Slides
-
 The goal of this module is to answer the key questions that anyone should want answered when they start to learn something new, "what, why, who, and how?" That is, "what are we learning and why?", "who is learning it?", and "how are we going to learn it?" Why are you taking this class? What's so interesting about health economics? Hopefully this part of our discussion convinces you how important and interesting health economics is. 
 
 Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.

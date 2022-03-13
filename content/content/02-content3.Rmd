@@ -1,0 +1,30 @@
+---
+title: "Module 2, Part 3: Physician Agency and Capitated Payments"
+linktitle: "M2.3: Capitation"
+menu:
+  content:
+    parent: Module 2
+    weight: 4
+type: docs
+bibliography: "../../static/bib/BibTeX_Library.bib"
+csl: "../../static/bib/chicago-syllabus-no-bib.csl"
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+In part 3, we continue our study of physician agency and treatment decisions, focusing on capitated payments.
+
+## Objectives
+- Define a capitated payment
+- Solve for treatment levels with capitated payments
+
+## Activities
+- In-class problem on physician agency with capitated payments. The worksheet is [here](/resource/wksheet6.html).
+
+## Slides
+Stay tuned for a shorter slide deck covering just part 1. In the meantime, please use the full slide deck on the [overview page](/content/02-content3/)

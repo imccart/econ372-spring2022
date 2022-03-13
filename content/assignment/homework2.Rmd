@@ -14,7 +14,8 @@ type: docs
 ---
 
 ## Instructions
-This is our second homework assignment of the semester. It covers questions related to physician treatment decisions and asymmetric information. 
+This is our second homework assignment of the semester. It covers questions related to physician treatment decisions and asymmetric information. For some hints, take a look at these [supplemental homework 2 slides](https://docs.google.com/presentation/d/1hiZPH_dIAT5XatfQ6xaNkDiLc_JuXEjhiq4eNJugb14/edit?usp=sharing).
+
 
 ## Theory Questions
 1. Assume a physician is operating with the standard profit function, $\pi = (p-c)x$, where $c$ reflects a constant marginal cost of production, $x$ denotes quantity of healthcare provided, and $p$ denotes the price per unit of healthcare provided. Assume also that patients receive some total benefit from care received, reflected by the equation $B(x)=20x - (1/2)x^{2}$. Patients must pay the full price, $p$, of any care received, so that the net benefit of care to the patient is then $B(x)-px$ (their total benefit less their costs). Finally, assume that the best outside option for the patient yields a net benefit of 0.

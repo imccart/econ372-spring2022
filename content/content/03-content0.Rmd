@@ -1,9 +1,9 @@
 ---
-title: "Hospital Pricing and Competition"
-linktitle: "M3: Competition"
+title: "Module 3: Hospital Pricing and Competition"
+linktitle: "M3: Overview"
 menu:
   content:
-    parent: Module Content
+    parent: Module 3
     weight: 2
 type: docs
 bibliography: "../../static/bib/BibTeX_Library.bib"
