@@ -27,4 +27,19 @@ In part 3, we continue our study of physician agency and treatment decisions, fo
 - In-class problem on physician agency with capitated payments. The worksheet is [here](/resource/wksheet6.html).
 
 ## Slides
-Stay tuned for a shorter slide deck covering just part 1. In the meantime, please use the full slide deck on the [overview page](/content/02-content3/)
+Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
+
+:::fyi
+**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
+:::
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/econ372-content/02-Agency/02-agency3.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ372-content/02-Agency/02-agency3.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ372-content/02-Agency/02-agency3.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
