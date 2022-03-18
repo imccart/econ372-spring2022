@@ -18,14 +18,8 @@ We only have one exam this semester. It will cover all content from Modules 1 an
 ## Format
 - The exam will consist of at least 6 general problems, each with between 3 and 5 individual questions. I anticipate 20 to 25 questions in total. Just as we've done in our homework assignments, some of these will require you to solve an optimization problem, some will require a brief explanation, and some parts will require you to draw a graph. See the [content](#content) section below for more information.
 
-- The exam is designed to complete in class; however, I will ask you to read a paper in advance of the exam. A relatively small portion of the exam will be based in-part on that paper. You will not have time to read the paper during the in-class exam - this must be done prior to our exam day.
-
 ## Content {#content}
 - The overall content of the exam will match very closely the content that we've covered in class and in our homework assignments. The homework and the in-class worksheets should be excellent practice for the exam. I will also post an exam review sheet to the [resources](/resource/) page sometime before the week of the exam, and we'll have time to review this in class.
-
-- I anticipate 3-4 problems that follow the structure of the homework assignments and in-class worksheets. These questions will ask you to set up some health economics problem, find the solution, and explain your results in the proper context. You can expect these questions to be similar but certainly not identical to the homework and in-class worksheets.
-
-- Building off of our in-class discussions of selected academic papers, the exam will also include 1 or 2 questions related to a new paper that you must read closely and summarize as part of the exam. I will ask you to use this material, alongside the relevant health economics concepts we've covered in class, to predict the effects of hypothetical new policies. Required reading for the exam will be made available on *Canvas* prior to the exam (or the morning of the exam if we move to virtual).
 
 - Many questions will have some element in which you are asked to examine a real-world health policy in the context of the problem. We will practice this in class and in your homework assignments as well, so it should be nothing new by the time the exam comes.
 
