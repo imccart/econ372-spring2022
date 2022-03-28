@@ -1,6 +1,6 @@
 ---
 title: "Module 3: Hospital Pricing and Competition"
-linktitle: "M3.1: Pricing in a Two-price Market"
+linktitle: "M3.1: Two-price Market"
 menu:
   content:
     parent: Module 3
