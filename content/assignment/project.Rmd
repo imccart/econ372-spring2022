@@ -55,15 +55,15 @@ Collect data on Medicare payment rates and charges for the same hospitals and sa
 
 4. Combine your data:
 
-Create a dataset that contains data from 2 and 3. In these data, each row should be a hospital/procedure pair, and the columns should include information such as: "hospital ID"; "DRG code"; "gross charge"; "Medicare payment"; "compliance"; and "negotiated payment" (if the hospital is compliant). Save your dataset as a ".csv" file and include it as part of your project submission.
+Select five DRG codes that you'd like to study in more detail, and create a dataset that contains data from 2 and 3. In these data, each row should be a hospital/procedure pair, and the columns should include information such as: "hospital ID"; "DRG code"; "gross charge"; "Medicare payment"; "compliance"; and "negotiated payment" (if the hospital is compliant). Save your dataset as a ".csv" file and include it as part of your project submission.
 
 5. Summarize data for hospitals:
 
-Select five DRG codes that you'd like to study in more detail, and provide a table of summary values for each hospital. For example, your table could show the mean charge and payments for these procedures by hospital, as well as the count of hospitals that are compliant.
+Based on your combined dataset, provide a table of summary values for each hospital. For example, your table could show the mean charge and payments for these procedures by hospital, as well as the count of hospitals that are compliant.
 
 6. Summarize data for specific procedures:
 
-For those same DRG codes, calculate the range of charges, negotiated prices, and Medicare payments *across hospitals* in your market. Show these ranges in a figure.
+For your selected DRG codes, calculate the range of charges, negotiated prices, and Medicare payments *across hospitals* in your market. Show these ranges in a figure.
 
 7. Think about your data:
 
