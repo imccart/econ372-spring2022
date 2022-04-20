@@ -93,4 +93,4 @@ This is our third and final homework assignment of the semester. It covers quest
     
     + Identify markets with more than 4 hospitals. Show in a graph the count of all such markets over time.
     
-    + Calculate the average price among the markets in part (2) and (3). How do these average prices compare?
+    + Calculate the average price in each year among the markets in part (2) and (3). Show your results in a table or a figure. How do these average prices compare?
