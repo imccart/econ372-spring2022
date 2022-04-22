@@ -66,7 +66,7 @@ This is our third and final homework assignment of the semester. It covers quest
     
     + What can you conclude about the outcome of bargaining in the case of one risk neutral and one risk averse agent?
     
-    + Assume instead that $\alpha=\beta$ and that $u_{2}=(1-a-x)^{\beta}$, where $a$ is some constant. What is the bargaining solution in this game?
+    + Assume instead that $\alpha=\beta$ and that player 2 now has some positive payoff, $a$, if the players fail to reach an agreement. In this case, player 2's gain from an agreement is then $u_{2}=(1-a-x)^{\beta}$. What is the bargaining solution in this game?
     
     + Interpret your answer in part (3) in terms of the "outside option" of player 1 and player 2.
 
